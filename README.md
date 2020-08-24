@@ -1,10 +1,10 @@
 <h1>🚀 GoRestaurant-Web-Bootcamp-GoStack-Rocketseat-Desafio-10</h1>
 
 <p>
-Nesse desafio proposto pela Bootcamp da Rocketseat desenvolvi uma aplicação chamada GoRestaurant.
-Na implementação dele pude praticar o que aprendi até agora no React.js junto com TypeScript, utilizando o conceito de CRUD (Create, Read, Update, Delete).
+In this challenge proposed by Rocketseat's Bootcamp I developed an application called GoRestaurant.
+In his implementation I was able to practice what I have learned so far in React.js along with TypeScript, using the concept of CRUD (Create, Read, Update, Delete).
   
-Essa aplicação se conecta a uma fake API, exibe pratos de comida e permite a criação, remoção e atualização desses pratos.
+This application connects to a fake API, displays food dishes and allows the creation, removal and updating of these dishes.
 </p>
 
 ![](tela01.png)
