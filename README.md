@@ -1,4 +1,4 @@
-<h1>🚀 GoRestaurant-Web-Bootcamp-GoStack-Rocketseat-Desafio-10</h1>
+<h1>🚀 GoRestaurant Web</h1>
 
 <p>
 In this challenge proposed by Rocketseat's Bootcamp I developed an application called GoRestaurant.
